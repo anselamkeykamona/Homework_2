@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif; /* Modify font family */
+    font-size: 16px; /* Modify font size */
+}
+
+/* Style for header */
+header {
+    background-color: #242121; /* Modify background color */
+}
+
+/* Style for nav */
+nav {
+    background-color: #555; /* Modify background color */
+}
+
+/* Style for main */
+main {
+    background-color: #b2d1b2; /* Modify background color */
+    font-size: 20px; /* Modify font size */
+    color: #170b2b;
+}
+
+/* Style for footer */
+footer {
+    background-color: #4CAF50; /* Modify background color */
+}
+
+/* Style for li */
+li {
+    display: list-item; /* Modify display */
+    width: 1500px; /* Modify width */
+}
+
+/* Style for h1 */
+h1 {
+    text-align: center; /* Modify text alignment */
+    font-family: 'Georgia', serif; /* Modify font family */
+    color: #4CAF50; /* Modify color */
+}
+
+h2 {
+    background-color: #222;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #4CAF50;
+}
+
+/* Style for p */
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6; /* Modify line height */
+}
